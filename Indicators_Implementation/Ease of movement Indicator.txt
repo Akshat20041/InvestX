@@ -1,0 +1,7 @@
+   Ease of movement Indicator:
+
+This indicator tell us how strong a trend is going in the market, the length I have chosen for this is 20 
+as for the default setting of length 14 I was not getting satisfactory result when I changed it to 20 I
+ got a more clear indication of when to buy/sell . When the line crosses the zero it the right time to 
+but and vice-versa . But I feel this indicator is not sufficient in initiating a trade , we need more
+ indicators to confirm the presence of a trend.

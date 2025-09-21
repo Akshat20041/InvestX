@@ -1,0 +1,9 @@
+Ichimoku Cloud:
+
+I have tried ichimoku cloud for different time frames, I found out this is one of the best
+Indictor as it provide triple confirmation to buy/sell a particular stock. If leading span A line 
+is Above B it signs a signal for buying and vice versa ,when the conversion line crosses base line 
+its The best time to but and lagging span should the above the current price. I have tried various 
+combination and the best combination I found was of Conversion line -10,base line period-26,leading 
+span B=52 and lagging span 28. When adani stocks were falling this indictor provides a very clear
+ signal to sell the stock.

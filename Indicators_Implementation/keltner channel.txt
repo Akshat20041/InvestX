@@ -1,0 +1,8 @@
+   keltner channel:
+
+In keltner channel there are 3 lines, the middle line representing the exponential moving average of a
+ specific period which I choose to be 25 days , the upper and lower lines representing the middle line 
++- multiplier time the ATR , It gives us a brief idea about how the market will perform in the future,
+ in most of the cases the market stays in the range of ATR ,the multiplier is choose is 2 as it present
+ me a good idea of how the market is moving
+
