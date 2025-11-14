@@ -2,7 +2,7 @@ from Opstraextract.bot_ke_function import Booking
 import time
 with Booking() as bot :
     bot.land_first_page()
-    bot.login(email="arindhariwal1@gmail.com", password="arin3054!@")
+    bot.login(email="email_id", password="***")
     bot.kaamka_page()
     bot.open_data()
     column_ki_list = bot.column_name()
