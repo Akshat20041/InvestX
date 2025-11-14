@@ -1,4 +1,4 @@
-from Opstraextract.bot_ke_function import Booking
+from function import Booking
 import time
 with Booking() as bot :
     bot.land_first_page()
